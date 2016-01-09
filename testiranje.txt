@@ -1,2 +1,12 @@
-Testiranje git neki je
-testiranje tvoje mamice
+1.git init
+2.git config user.name "someone"
+3.git config user.email "someone@someplace.com"
+4.git add *
+5.git commit -m "some init msg"
+
+click fork button on original github project page
+clone your forked repository instead original
+push to it
+press Pull Requests button on your repository
+create it
+wait for original author to accept it
